@@ -1,9 +1,7 @@
 # TahChuvendoAí
+TahChuvendoAí é um aplicativo móvel desenvolvido em .NET MAUI que prevê chuva com base em dados de IoT e localização.
 
 ![dotnet_bot](https://github.com/LucasSebrian/TahChuvendoAi/assets/40295405/355735d2-d07e-4d60-b9b0-bb097468b6c2)
-
-
-TahChuvendoAí é um aplicativo móvel desenvolvido em .NET MAUI que prevê chuva com base em dados de IoT e localização.
 
 ## Recursos Principais:
 ![ensolarado](https://github.com/LucasSebrian/TahChuvendoAi/assets/40295405/7cce37ea-cd8c-4e14-84be-e2836d38c1f9)
@@ -26,3 +24,5 @@ TahChuvendoAí é um aplicativo móvel desenvolvido em .NET MAUI que prevê chuv
 3. Configure as chaves de API do OpenWeatherMap e do Auth0.
 4. Execute o aplicativo em seu ambiente de desenvolvimento.
 
+## APK de instalação 
+https://drive.google.com/file/d/1OwAMFE5miJUA_jRZ-9JqmMISDmaenTm3/view?usp=sharing
